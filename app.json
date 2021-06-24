@@ -1,0 +1,12 @@
+{
+  "name": "ConverterApp",
+  "displayName": "ConverterApp",
+  "expo": {
+    "name": "ConverterApp",
+    "slug": "ConverterApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
